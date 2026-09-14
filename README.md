@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ecommerce
 
 A new Flutter project.
@@ -22,3 +23,31 @@ BACKEND: FIREBASE
 ADMIN ACCOUNT: 
 Emai: admin@gmail.com 
 password: 123456
+=======
+# 🛍️ E-Commerce Pro
+
+A professional E-Commerce mobile application built with **Flutter, Dart, and Firebase**.
+
+## ✨ Features
+
+- 🔐 User Authentication
+- 🛍️ Product Browsing & Search
+- ❤️ Wishlist
+- 🛒 Shopping Cart
+- 💳 Checkout & Orders
+- 📦 Order Tracking
+- ⭐ Product Reviews
+- 👤 User Profile
+- 🔧 Admin Dashboard
+- 🌙 Dark Mode
+
+## 🛠️ Technologies
+
+- Flutter
+- Dart
+- Firebase Authentication
+- Cloud Firestore
+- Firebase Storage
+- Provider
+
+>>>>>>> 20a7ff18bf0097648596990305adac6a3dea8a81
