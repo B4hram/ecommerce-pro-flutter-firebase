@@ -1,3 +1,20 @@
+<p align="center">
+  <img src="assets/screenshots/login ecommerce.png" width="200">
+  <img src="assets/screenshots/home 1 ecommerce.png" width="200">
+  <img src="assets/screenshots/home 2 ecommerce.png" width="200">
+
+  <img src="assets/screenshots/my orders.png" width="200">
+  <img src="assets/screenshots/my cart.png" width="200">
+  <img src="assets/screenshots/profile 1.png" width="200">
+  <img src="assets/screenshots/profile 2.png" width="200">
+  <img src="assets/screenshots/review.png" width="200">
+  <img src="assets/screenshots/wishlist.png" width="200">
+  <img src="assets/screenshots/product detail.png" width="200">
+
+
+
+
+</p>
 <<<<<<< HEAD
 # ecommerce
 
